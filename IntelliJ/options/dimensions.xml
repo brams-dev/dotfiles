@@ -1,0 +1,29 @@
+<application>
+  <component name="DimensionService">
+    <location key="SettingsEditor.0.0.1920.1080" x="442" y="87" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="557" y="75" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="440" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="660" y="351" />
+    <location key="#Notifications.0.0.1920.1080" x="709" y="256" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="545" y="97" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="545" y="97" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="688" y="318" />
+    <location key="find.popup.0.0.1920.1080" x="743" y="115" />
+    <location key="#start.0.0.1920.1080" x="713" y="217" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="174" />
+    <location key="#restart.0.0.1920.1080" x="699" y="217" />
+    <location key="#test.0.0.1920.1080" x="699" y="217" />
+    <location key="#Inspections.0.0.1920.1080" x="592" y="198" />
+    <location key="#stop.0.0.1920.1080" x="699" y="217" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="690" y="266" />
+    <location key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.1920.1080" x="684" y="357" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="714" y="356" />
+    <size key="find.popup.0.0.1920.1080" width="664" height="675" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="948" height="194" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="948" height="194" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="948" height="194" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="948" height="194" />
+    <size key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.1920.1080" width="688" height="451" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="751" height="908" />
+  </component>
+</application>

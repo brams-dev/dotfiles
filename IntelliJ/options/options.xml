@@ -1,0 +1,28 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="KEYMAP" value="navigate&#10;main menu" />
+    <property name="PLUGIN_FILTER" value="mark&#10;disc&#10;che" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.19874214" />
+    <property name="SettingsSearchHistory" value="detect indent" />
+    <property name="SplitFileEditor.Proportion" value="0.5785359" />
+    <property name="android-component-compatibility-check" value="1526546421488" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.181" value="18" />
+    <property name="file.chooser.recent.files" value="G:/Software/Misc/JetBrains Plugins/webmaster.zip&#10;G:/Software/Misc/JetBrains Plugins/ts-spec-generator-0.2.jar&#10;G:/Software/Misc/JetBrains Plugins/stackoverflow-1.1.zip&#10;G:/Software/Misc/JetBrains Plugins/ReactSnippets.jar&#10;G:/Software/Misc/JetBrains Plugins/rainglow.jar&#10;G:/Software/Misc/JetBrains Plugins/NodeJS-182.1950.zip&#10;G:/Software/Misc/JetBrains Plugins/Material_Theme-2.2.3.182.zip&#10;G:/Software/Misc/JetBrains Plugins/ImportCost.zip&#10;G:/Software/Misc/JetBrains Plugins/idea-nodesecurity-0.4.0.zip&#10;G:/Software/Misc/JetBrains Plugins/CssAlphabeticalRearranger.jar&#10;G:/Software/Misc/JetBrains Plugins/Emoji_Support_Plugin-2.0.1.zip&#10;E:/5. Documents/dev/firebase-winston&#10;G:/Software/Misc/JetBrains Plugins/gfm-plugin.zip&#10;E:/5. Documents/dev/winston-discord&#10;E:/5. Documents/dev&#10;E:/5. Documents/dev/potato-bot&#10;E:/Documents/dev/firebase-winston&#10;E:/5. Documents/dev/friendly-time&#10;E:/5. Documents/dev/landing-page&#10;E:/5. Documents/dev/potato-web&#10;E:/5. Documents/dev/1718_POP_BramSchepens&#10;G:/Software/Misc/JetBrains Plugins/discord-intellij.zip&#10;G:/Software/Misc/JetBrains Plugins/Jetbrains-Discord-Integration-0.8.0.zip&#10;G:/Software/Misc/JetBrains Plugins/CpuUsageIndicator.zip&#10;G:/Software/Misc/JetBrains Plugins/BashSupport-1.6.13.181.zip&#10;C:/Users/Bram/AppData/Roaming/npm&#10;G:/Software/Misc/JetBrains Plugins/intellij-serial-monitor-0.5.2.zip&#10;G:/Software/Misc/JetBrains Plugins/chelper.zip" />
+    <property name="file.gist.reindex.count" value="88" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.2.31-release-IJ2018.1-1" />
+    <property name="lastTip" value="1" />
+    <property name="plugins.preselection.path" value="G:/Software/Misc/JetBrains Plugins" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JSON" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="2.8.1" />
+  </component>
+</application>

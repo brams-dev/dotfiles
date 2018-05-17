@@ -1,0 +1,3 @@
+<application>
+  <component name="DiscordIntegrationApplicationSettings" inactivityTimeout="900000" resetOpenTimeAfterInactivity="false" />
+</application>
