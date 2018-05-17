@@ -2,6 +2,7 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="E:/dev/dotfiles" />
         <option value="E:/5. Documents/dev/potato-bot" />
         <option value="E:/5. Documents/dev/winston-discord" />
         <option value="E:/5. Documents/dev/firebase-winston" />
@@ -14,10 +15,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="E:/5. Documents/dev/potato-bot" />
+        <option value="E:/dev/dotfiles" />
       </list>
     </option>
-    <option name="lastPath" value="E:/5. Documents/dev/potato-bot" />
+    <option name="lastPath" value="E:/dev/dotfiles" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -71,8 +72,8 @@
               <option name="build" value="IU-181.4892.42" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1526547825895" />
-              <option name="buildTimestamp" value="1525760360760" />
+              <option name="projectOpenTimestamp" value="1526549898273" />
+              <option name="buildTimestamp" value="1525760347207" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -106,6 +107,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1526387050429" />
               <option name="buildTimestamp" value="1525760358491" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/dev/dotfiles">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4892.42" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526550654473" />
+              <option name="buildTimestamp" value="1525760358905" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

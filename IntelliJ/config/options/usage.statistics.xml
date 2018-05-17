@@ -12,15 +12,15 @@
       <entry action="ConfigureIcs" count="1" />
       <entry action="CopyReference" count="1" />
       <entry action="DialogOkAction Enter" count="52" />
-      <entry action="EditorBackSpace" count="4181" />
+      <entry action="EditorBackSpace" count="4184" />
       <entry action="EditorChooseLookupItem" count="4" />
       <entry action="EditorChooseLookupItemReplace" count="240" />
       <entry action="EditorCopy" count="620" />
-      <entry action="EditorCut" count="112" />
-      <entry action="EditorDelete" count="309" />
+      <entry action="EditorCut" count="113" />
+      <entry action="EditorDelete" count="310" />
       <entry action="EditorDown" count="218" />
       <entry action="EditorDuplicate" count="23" />
-      <entry action="EditorEnter" count="1339" />
+      <entry action="EditorEnter" count="1343" />
       <entry action="EditorEscape" count="8" />
       <entry action="EditorIndentSelection" count="3" />
       <entry action="EditorLeft" count="442" />
@@ -29,7 +29,7 @@
       <entry action="EditorLineStartWithSelection" count="4" />
       <entry action="EditorNextWord" count="6" />
       <entry action="EditorNextWordWithSelection" count="5" />
-      <entry action="EditorPaste" count="626" />
+      <entry action="EditorPaste" count="627" />
       <entry action="EditorPreviousWord" count="7" />
       <entry action="EditorPreviousWordWithSelection" count="3" />
       <entry action="EditorRight" count="963" />
@@ -44,24 +44,31 @@
       <entry action="FileChooser.GotoHome" count="1" />
       <entry action="Find" count="16" />
       <entry action="FindInPath" count="12" />
-      <entry action="GotoDeclaration" count="43" />
+      <entry action="GotoDeclaration" count="45" />
       <entry action="GotoImplementation" count="3" />
       <entry action="LocalHistory.ShowHistory" count="1" />
+      <entry action="MarkExcludeRoot" count="4" />
+      <entry action="MarkdownNavigator.EditorAndPreviewLayoutChange" count="1" />
+      <entry action="MarkdownNavigator.EditorOnlyLayoutChange" count="1" />
+      <entry action="MarkdownNavigator.HtmlPreviewChange" count="1" />
+      <entry action="MarkdownNavigator.ModifiedHtmlTextChange" count="1" />
+      <entry action="MarkdownNavigator.PreviewOnlyLayoutChange" count="1" />
+      <entry action="MarkdownNavigator.UnmodifiedHtmlTextChange" count="1" />
       <entry action="MoveStatementDown" count="1" />
       <entry action="MoveStatementUp" count="6" />
       <entry action="NewDir" count="7" />
       <entry action="NewFile" count="41" />
-      <entry action="OpenFile" count="18" />
+      <entry action="OpenFile" count="19" />
       <entry action="QuickImplementations" count="1" />
       <entry action="ReformatCode" count="3" />
       <entry action="RenameElement" count="8" />
       <entry action="Replace" count="7" />
       <entry action="Rerun" count="4" />
       <entry action="Run" count="22" />
-      <entry action="SaveAll" count="3060" />
+      <entry action="SaveAll" count="3065" />
       <entry action="ShowIntentionActions" count="21" />
-      <entry action="ShowSettings" count="25" />
-      <entry action="SplitVertically" count="5" />
+      <entry action="ShowSettings" count="29" />
+      <entry action="SplitVertically" count="6" />
       <entry action="ToggleLineBreakpoint" count="1" />
       <entry action="UsageView.Exclude" count="1" />
       <entry action="context.load" count="1" />
@@ -99,7 +106,7 @@
     <feature id="db.console.execute" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="43" last-shown="0" last-used="1526478368021" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="45" last-shown="0" last-used="1526548428708" shown-count="0" />
     <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.implementation" count="3" last-shown="0" last-used="1526318623277" shown-count="0" />
@@ -183,16 +190,16 @@
     <counts>
       <entry path="File -&gt; Export Settings..." count="1" />
       <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="1" />
-      <entry path="File -&gt; Open..." count="18" />
+      <entry path="File -&gt; Open..." count="19" />
       <entry path="File -&gt; Settings Repository…" count="1" />
-      <entry path="File -&gt; Settings..." count="24" />
+      <entry path="File -&gt; Settings..." count="28" />
     </counts>
   </component>
   <component name="ShortcutsCollector">
     <counts>
       <entry shortcut="Alt+Enter" count="21" />
       <entry shortcut="Alt+Shift+L" count="1" />
-      <entry shortcut="Backspace" count="4181" />
+      <entry shortcut="Backspace" count="4184" />
       <entry shortcut="Ctrl+A" count="29" />
       <entry shortcut="Ctrl+Alt+L" count="3" />
       <entry shortcut="Ctrl+Alt+S" count="1" />
@@ -203,7 +210,7 @@
       <entry shortcut="Ctrl+Left" count="7" />
       <entry shortcut="Ctrl+R" count="10" />
       <entry shortcut="Ctrl+Right" count="6" />
-      <entry shortcut="Ctrl+S" count="3060" />
+      <entry shortcut="Ctrl+S" count="3065" />
       <entry shortcut="Ctrl+Shift+Down" count="1" />
       <entry shortcut="Ctrl+Shift+F" count="12" />
       <entry shortcut="Ctrl+Shift+Home" count="1" />
@@ -213,13 +220,13 @@
       <entry shortcut="Ctrl+Shift+Up" count="6" />
       <entry shortcut="Ctrl+Shift+Z" count="56" />
       <entry shortcut="Ctrl+Slash" count="29" />
-      <entry shortcut="Ctrl+V" count="630" />
-      <entry shortcut="Ctrl+X" count="112" />
+      <entry shortcut="Ctrl+V" count="631" />
+      <entry shortcut="Ctrl+X" count="113" />
       <entry shortcut="Ctrl+Z" count="759" />
-      <entry shortcut="Delete" count="325" />
+      <entry shortcut="Delete" count="326" />
       <entry shortcut="Down" count="224" />
       <entry shortcut="End" count="20" />
-      <entry shortcut="Enter" count="1369" />
+      <entry shortcut="Enter" count="1373" />
       <entry shortcut="Escape" count="26" />
       <entry shortcut="Home" count="6" />
       <entry shortcut="Left" count="442" />
@@ -234,6 +241,12 @@
   </component>
   <component name="ToolbarClicksCollector">
     <counts>
+      <entry action="MarkdownNavigator.EditorAndPreviewLayoutChange@EditorToolbar" count="1" />
+      <entry action="MarkdownNavigator.EditorOnlyLayoutChange@EditorToolbar" count="1" />
+      <entry action="MarkdownNavigator.HtmlPreviewChange@EditorToolbar" count="1" />
+      <entry action="MarkdownNavigator.ModifiedHtmlTextChange@EditorToolbar" count="1" />
+      <entry action="MarkdownNavigator.PreviewOnlyLayoutChange@EditorToolbar" count="1" />
+      <entry action="MarkdownNavigator.UnmodifiedHtmlTextChange@EditorToolbar" count="1" />
       <entry action="Rerun@RunnerToolbar" count="4" />
       <entry action="Run@NavBarToolbar" count="22" />
       <entry action="RunConfiguration@NavBarToolbar" count="14" />
@@ -244,7 +257,7 @@
       <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="20" />
       <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="6" />
       <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="2" />
-      <entry action="com.intellij.ide.plugins.InstalledPluginsManagerMain$MyFilterEnabledAction@PluginManager" count="2" />
+      <entry action="com.intellij.ide.plugins.InstalledPluginsManagerMain$MyFilterEnabledAction@PluginManager" count="4" />
       <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="2" />
       <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction@EditorToolbar" count="7" />
       <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction@EditorToolbar" count="8" />
@@ -260,15 +273,16 @@
       <entry feature="ide.settings.Appearance" count="3" />
       <entry feature="ide.settings.CSS" count="1" />
       <entry feature="ide.settings.Code Style" count="5" />
+      <entry feature="ide.settings.Confirmation" count="1" />
       <entry feature="ide.settings.Discord" count="6" />
       <entry feature="ide.settings.HTML" count="1" />
       <entry feature="ide.settings.JSON" count="1" />
       <entry feature="ide.settings.JavaScript" count="3" />
       <entry feature="ide.settings.Keymap" count="1" />
-      <entry feature="ide.settings.Plugins" count="12" />
+      <entry feature="ide.settings.Plugins" count="13" />
       <entry feature="ide.settings.SCSS" count="1" />
-      <entry feature="ideaapp.started" count="19" />
-      <entry feature="terminal.win" count="32" />
+      <entry feature="ideaapp.started" count="23" />
+      <entry feature="terminal.win" count="34" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
       <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />

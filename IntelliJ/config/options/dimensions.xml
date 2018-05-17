@@ -18,6 +18,7 @@
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="690" y="266" />
     <location key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.1920.1080" x="684" y="357" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="714" y="356" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="529" y="361" />
     <size key="find.popup.0.0.1920.1080" width="664" height="675" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080" width="948" height="194" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="948" height="194" />
@@ -25,5 +26,6 @@
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="948" height="194" />
     <size key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.1920.1080" width="688" height="451" />
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="751" height="908" />
+    <size key="IdeErrosDialog.0.0.1920.1080" width="862" height="547" />
   </component>
 </application>
