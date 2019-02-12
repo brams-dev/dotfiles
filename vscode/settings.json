@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "'Fira Mono', Consolas, 'Courier New', monospace",
+    "workbench.colorTheme": "Codesandbox",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+	"workbench.iconTheme": "vs-nomo-dark"
+}
