@@ -1,1 +1,16 @@
+Batch Scripts Support
+CHelper
+CssAlphabeticalRearranger
+ImportCost
+SerialPortMonitor
+com.alayouni.ansiHighlight
+com.bruce.intellijpluin.stackoverflow
+com.chrisrm.idea.MaterialThemeUI
+com.github.shiraji.emoji
+com.intellij.ideolog
+com.jinsihou.react.snippets
+com.strintec.intellij.webmaster
+eu.ydp.idea.tsSpecGenerator
+me.fingerart.idea.apidebugger
+mobi.hsz.idea.nodesecurity
 org.intellij.plugins.markdown

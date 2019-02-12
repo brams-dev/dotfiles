@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="SettingsEditor.0.0.1920.1080" x="442" y="87" />
+    <location key="SettingsEditor.0.0.1920.1080" x="361" y="103" />
     <location key="FileChooserDialogImpl.0.0.1920.1080" x="557" y="75" />
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="440" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="660" y="351" />
@@ -8,7 +8,7 @@
     <location key="#Browse_Repositories.0.0.1920.1080" x="545" y="97" />
     <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="545" y="97" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="688" y="318" />
-    <location key="find.popup.0.0.1920.1080" x="743" y="115" />
+    <location key="find.popup.0.0.1920.1080" x="493" y="64" />
     <location key="#start.0.0.1920.1080" x="713" y="217" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="174" />
     <location key="#restart.0.0.1920.1080" x="699" y="217" />
@@ -19,13 +19,36 @@
     <location key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.1920.1080" x="684" y="357" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="714" y="356" />
     <location key="IdeErrosDialog.0.0.1920.1080" x="529" y="361" />
-    <size key="find.popup.0.0.1920.1080" width="664" height="675" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="948" height="194" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="948" height="194" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="948" height="194" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="948" height="194" />
+    <location key="#Test.0.0.1920.1080" x="699" y="217" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="514" y="256" />
+    <location key="jetbrains.nodejs.interpreters-dialog.0.0.1920.1080" x="677" y="327" />
+    <location key="new project wizard.0.0.1920.1080" x="600" y="50" />
+    <location key="#Project_Structure.0.0.1920.1080" x="440" y="94" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1438" y="876" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" x="621" y="190" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080" x="707" y="361" />
+    <size key="find.popup.0.0.1920.1080" width="971" height="783" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1256" height="218" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1256" height="218" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1256" height="218" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1256" height="218" />
     <size key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.1920.1080" width="688" height="451" />
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="751" height="908" />
     <size key="IdeErrosDialog.0.0.1920.1080" width="862" height="547" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1046" height="777" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="288" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="288" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="288" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="288" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1876" height="345" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1876" height="345" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1876" height="345" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1876" height="345" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1876" height="345" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1876" height="345" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1876" height="345" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1876" height="345" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="180" />
+    <size key="XDebugger.FullValuePopup.0.0.1920.1080" width="968" height="533" />
   </component>
 </application>

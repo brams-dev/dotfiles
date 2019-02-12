@@ -4,4 +4,11 @@
       <version-cache version="10.0.0" last-modified="1525793486539" />
     </local-interpreter>
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\Bram\.virtualenvs\Code\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
