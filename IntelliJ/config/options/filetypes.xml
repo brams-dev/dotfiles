@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="ino" type="C++" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
