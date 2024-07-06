@@ -28,3 +28,7 @@ cp ~/dotfiles/config/gtk-3.0/settings.ini ~/.config/gtk-3.0/
 
 # touchpad tap to click
 sudo cp ~/dotfiles/config/90-touchpad.conf /etc/X11/xorg.conf.d/90-touchpad.conf
+
+# docker
+sudo groupadd docker
+sudo usermod -aG docker $USER

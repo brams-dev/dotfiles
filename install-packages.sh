@@ -1,6 +1,7 @@
 # Install packages that are in the official repo
 sudo pacman -Syu --noconfirm \
     git curl wget man unzip \
+    pamixer \
     kitty \
     nano micro \
     htop btop \
@@ -12,7 +13,7 @@ sudo pacman -Syu --noconfirm \
     docker \
     bat \
     rustup \
-    feh
+    nitrogen rofi \
 
 # Install yay
 sudo rm -rf ~/yay-bin
