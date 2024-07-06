@@ -11,7 +11,8 @@ sudo pacman -Syu --noconfirm \
     obsidian \
     docker \
     bat \
-    rustup
+    rustup \
+    feh
 
 # Install yay
 sudo rm -rf ~/yay-bin
