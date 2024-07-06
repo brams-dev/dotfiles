@@ -1,5 +1,7 @@
 {
     "git.autofetch": true,
     "window.titleBarStyle": "custom",
-    "editor.insertSpaces": false
+    "editor.insertSpaces": false,
+    "git.confirmSync": false,
+    "security.workspace.trust.untrustedFiles": "open"
 }
