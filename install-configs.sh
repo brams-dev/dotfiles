@@ -21,3 +21,10 @@ nitrogen ~/dotfiles/wallpapers/vrsic-pass.jpg --set-auto
 # kitty
 mkdir -p ~/.config/kitty
 cp ~/dotfiles/config/kitty/* ~/.config/kitty/
+
+# gtk for dark mode
+mkdir -p ~/.config/gtk-3.0
+cp ~/dotfiles/config/gtk-3.0/settings.ini ~/.config/gtk-3.0/
+
+# touchpad tap to click
+sudo cp ~/dotfiles/config/90-touchpad.conf /etc/X11/xorg.conf.d/90-touchpad.conf

@@ -195,3 +195,9 @@ gaps inner 8
 gaps outer 8
 
 exec --no-startup-id nitrogen --restore
+
+default_border pixel 1
+client.focused          #ffffff #ffffff #ffffff #ffffff #ffffff
+
+bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl set +5%
+bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 5%-
