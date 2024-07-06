@@ -1,6 +1,7 @@
 # Install packages that are in the official repo
 sudo pacman -Syu --noconfirm \
     git curl wget man unzip \
+    kitty \
     nano micro \
     htop btop \
     firefox \
@@ -11,7 +12,6 @@ sudo pacman -Syu --noconfirm \
     docker \
     bat \
     rustup
-
 
 # Install yay
 sudo rm -rf ~/yay-bin
