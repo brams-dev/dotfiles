@@ -10,3 +10,8 @@ cp ~/dotfiles/config/bash/.bash_aliases ~/
 mkdir -p ~/.config/awesome
 cp ~/dotfiles/config/awesome/rc.lua ~/.config/awesome
 echo 'awesome.restart()' | awesome-client
+
+# git
+git config --global init.defaultBranch master
+git config --global user.name "Bram"
+git config --global user.email "bram@brams.dev"
