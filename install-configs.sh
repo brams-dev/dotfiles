@@ -1,6 +1,12 @@
+# VSCode
+mkdir -p ~/.config/Code\ -\ OSS/User
+cp ~/dotfiles/config/Code\ -\ OSS/User/settings.json ~/.config/Code\ -\ OSS/User/
+
+# Bash
+cp ~/dotfiles/config/bash/.bashrc ~/
+cp ~/dotfiles/config/bash/.bash_aliases ~/
+
 # AwesomeWM
-# Assuming that awesome is already installed
 mkdir -p ~/.config/awesome
 cp ~/dotfiles/config/awesome/rc.lua ~/.config/awesome
 echo 'awesome.restart()' | awesome-client
-
