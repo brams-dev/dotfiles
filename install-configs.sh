@@ -9,6 +9,7 @@ cp ~/dotfiles/config/bash/.bash_aliases ~/
 # AwesomeWM
 mkdir -p ~/.config/awesome
 cp ~/dotfiles/config/awesome/rc.lua ~/.config/awesome
+cp ~/dotfiles/config/awesome/theme.lua ~/.config/awesome
 echo 'awesome.restart()' | awesome-client
 
 # git
