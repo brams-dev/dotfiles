@@ -10,3 +10,5 @@ export EDITOR="nano"
 export SUDO_EDITOR="$EDITOR"
 
 source ~/.bash_aliases
+
+xrdb -load ~/.Xresources

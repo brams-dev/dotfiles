@@ -1,6 +1,7 @@
 # Install packages that are in the official repo
 sudo pacman -Syu --noconfirm \
     git curl wget man unzip \
+    mesa xf86-video-amdgpu xorg-xrandr \
     pamixer \
     kitty \
     nano micro \

@@ -98,10 +98,7 @@ bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
-bindsym $mod+Shift+d floating toggle
-
-# change focus between tiling / floating windows
-bindsym $mod+d focus mode_toggle
+bindsym $mod+d floating toggle
 
 # focus the parent container
 bindsym $mod+a focus parent
@@ -189,7 +186,7 @@ bar {
 # start bram config
 
 gaps inner 8
-gaps outer 8
+gaps outer 0
 
 exec --no-startup-id nitrogen --restore
 

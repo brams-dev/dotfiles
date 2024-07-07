@@ -27,7 +27,12 @@ mkdir -p ~/.config/gtk-3.0
 cp ~/dotfiles/config/gtk-3.0/settings.ini ~/.config/gtk-3.0/
 
 # touchpad tap to click
-sudo cp ~/dotfiles/config/90-touchpad.conf /etc/X11/xorg.conf.d/90-touchpad.conf
+sudo cp ~/dotfiles/config/X11/90-touchpad.conf /etc/X11/xorg.conf.d/90-touchpad.conf
+
+# try to fix screen tearing
+sudo cp ~/dotfiles/config/X11/20-amdgpu.conf /etc/X11/xorg.conf.d/20-amdgpu.conf
+
+cp ~/dotfiles/config/.Xresources ~/.Xresources
 
 # docker
 sudo groupadd docker
