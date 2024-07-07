@@ -16,7 +16,7 @@ cp ~/dotfiles/config/i3/config ~/.config/i3/config
 i3-msg reload
 
 # wallpaper
-nitrogen ~/dotfiles/wallpapers/vrsic-pass.jpg --set-auto
+nitrogen ~/dotfiles/wallpapers/vrsic-pass-bw.jpg --set-auto
 
 # kitty
 mkdir -p ~/.config/kitty
