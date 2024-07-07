@@ -90,7 +90,7 @@ bindsym $mod+h split h
 bindsym $mod+v split v
 
 # enter fullscreen mode for the focused container
-bindsym $mod+f fullscreen toggle
+bindsym $mod+F11 fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+s layout stacking
@@ -98,7 +98,7 @@ bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
-bindsym $mod+d floating toggle
+bindsym $mod+f floating toggle
 
 # focus the parent container
 bindsym $mod+a focus parent
@@ -117,7 +117,19 @@ set $ws6 "6"
 set $ws7 "7"
 set $ws8 "8"
 set $ws9 "9"
-set $ws10 "0"
+set $ws10 "10"
+
+# assign workspace to monitors
+workspace $ws1 output primary
+workspace $ws2 output primary
+workspace $ws3 output primary
+workspace $ws4 output primary
+workspace $ws5 output primary
+workspace $ws6 output primary
+workspace $ws7 output primary
+workspace $ws8 output primary
+workspace $ws9 output primary
+workspace $ws10 output eDP DisplayPort-4
 
 # switch to workspace
 bindsym $mod+1 workspace number $ws1
@@ -207,3 +219,9 @@ bindsym $mod+space exec --no-startup-id rofi -show drun
 
 # lock
 bindsym $mod+slash exec --no-startup-id i3lock
+
+# firefox
+bindsym $mod+b exec --no-startup-id firefox
+
+# toggle displays mode
+bindsym $mod+d exec --no-startup-id ~/dotfiles/scripts/toggle-displays.sh
