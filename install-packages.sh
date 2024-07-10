@@ -11,7 +11,7 @@ sudo pacman -Syu --noconfirm \
     fastfetch \
     syncthing \
     obsidian \
-    docker \
+    docker docker-compose \
     bat \
     rustup \
     nitrogen rofi \
