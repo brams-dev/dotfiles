@@ -1,7 +1,9 @@
 {
-    "git.autofetch": true,
-    "window.titleBarStyle": "custom",
-    "editor.insertSpaces": false,
-    "git.confirmSync": false,
-    "security.workspace.trust.untrustedFiles": "open"
+	"git.autofetch": true,
+	"window.titleBarStyle": "custom",
+	"editor.insertSpaces": false,
+	"git.confirmSync": false,
+	"security.workspace.trust.untrustedFiles": "open",
+	"workbench.iconTheme": "vs-nomo-dark",
+	"workbench.colorTheme": "CodeSandbox Black"
 }
