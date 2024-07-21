@@ -197,7 +197,7 @@ bar {
 
 # start bram config
 
-gaps inner 8
+gaps inner 0
 gaps outer 0
 
 exec --no-startup-id nitrogen --restore
