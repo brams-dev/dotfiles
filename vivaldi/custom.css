@@ -1,0 +1,26 @@
+#header,
+.BookmarkButton,
+button[title="Reader View"] {
+	display: none !important;
+}
+
+.mainbar .toolbar-mainbar {
+	min-height: 28px !important;
+	height: 28px !important;
+	margin-left: 64px;
+}
+
+.toolbar {
+	height: 28px;
+}
+
+.toolbar-extensions,
+.bookmark-bar.default {
+	filter: grayscale(1);
+	transition: filter 0.2s ease;
+}
+
+.toolbar-extensions:hover,
+.bookmark-bar.default:hover {
+	filter: grayscale(0);
+}
