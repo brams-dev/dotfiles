@@ -1,4 +1,4 @@
-#header,
+#browser.tabs-off #header,
 .BookmarkButton,
 button[title="Reader View"] {
 	display: none !important;
@@ -7,6 +7,9 @@ button[title="Reader View"] {
 .mainbar .toolbar-mainbar {
 	min-height: 28px !important;
 	height: 28px !important;
+}
+
+#browser.tabs-off .mainbar .toolbar-mainbar {
 	margin-left: 64px;
 }
 
@@ -23,4 +26,14 @@ button[title="Reader View"] {
 .toolbar-extensions:hover,
 .bookmark-bar.default:hover {
 	filter: grayscale(0);
+}
+
+.UrlBar-AddressField:focus-within {
+	border-color: var(--colorBg) !important;
+	box-shadow: none !important;
+	outline: none !important;
+}
+
+#tabs-tabbar-container.top {
+	padding-top: 0 !important;
 }
