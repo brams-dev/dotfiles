@@ -10,7 +10,11 @@ button[title="Reader View"] {
 }
 
 #browser.tabs-off .mainbar .toolbar-mainbar {
-	margin-left: 64px;
+	/* margin-left: 64px; */
+}
+
+#browser.tabs-left .mainbar .mainbar .window-buttongroup.on-mainbar {
+	margin-top: -20px;
 }
 
 .toolbar {
@@ -36,4 +40,8 @@ button[title="Reader View"] {
 
 #tabs-tabbar-container.top {
 	padding-top: 0 !important;
+}
+
+#main .mainbar .toolbar-required {
+	display: none;
 }
